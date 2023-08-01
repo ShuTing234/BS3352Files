@@ -1,0 +1,144 @@
+Organism	Common Name	Short Name	Total # of Genes
+Mycobacterium tuberculosis	actinobacteria	MYCTU	3992
+Streptomyces coelicolor	actinobacteria	STRCO	8033
+Bradyrhizobium diazoefficiens	alphaproteobacteria	BRADU	8047
+Paramecium tetraurelia	alveolate	PARTE	39461
+Amborella trichopoda	Amborella	AMBTC	27312
+Entamoeba histolytica	amoeba	ENTHI	7959
+Nematostella vectensis	anemone	NEMVE	24426
+Plasmodium falciparum	apicomplexan	PLAF7	5311
+Aquifex aeolicus	aquaficae bacteria	AQUAE	1553
+Ashbya gossypii	ascomycote fungus	ASHGO	4757
+Emericella nidulans	ascomycote fungus	EMENI	10532
+Neosartorya fumigata	ascomycote fungus	ASPFU	9646
+Neurospora crassa	ascomycote fungus	NEUCR	9757
+Phaeosphaeria nodorum	ascomycote fungus	PHANO	15992
+Sclerotinia sclerotiorum	ascomycote fungus	SCLS1	14444
+Yarrowia lipolytica	ascomycote fungus	YARLI	6449
+Bacillus subtilis	b subtilis	BACSU	4258
+Bacillus cereus	bacillus cereus	BACCR	5238
+Bacteroides thetaiotaomicron	bacteroidetes bacteria	BACTN	4782
+Musa acuminata subsp. malaccensis	banana	MUSAM	36378
+Hordeum vulgare subsp. vulgare	barley	HORVV	35634
+Medicago truncatula	barrel medic	MEDTR	49614
+Cryptococcus neoformans	basidiomycote fungus	CRYNJ	6604
+Puccinia graminis	basidiomycote fungus	PUCGT	15683
+Ustilago maydis	basidiomycote fungus	USTMA	6788
+Capsicum annuum	bell pepper	CAPAN	35082
+Neisseria meningitidis serogroup b	betaproteobacteria	NEIMB	2001
+Populus trichocarpa	black cottonwood	POPTR	42532
+Saccharomyces cerevisiae	Brewer's yeast	YEAST	6050
+Candida albicans	candida	CANAL	6026
+Korarchaeum cryptofilum	candidatus archaea	KORCO	1602
+Brassica napus	canola	BRANA	60104
+Manihot esculenta	cassava	MANES	32776
+Ricinus communis	castor bean	RICCO	31129
+Felis catus	cat	FELCA	19652
+Gallus gallus	chicken	CHICK	18109
+Pan troglodytes	chimpanzee	PANTR	23035
+Brassica rapa subsp. pekinensis	Chinese cabbage	BRARP	40743
+Chlamydia trachomatis	chlamydia	CHLTR	895
+Chloroflexus aurantiacus	chloroflexi bacteria	CHLAA	3850
+Vibrio cholerae	cholera	VIBCH	3782
+Batrachochytrium dendrobatidis	chytrid fungus	BATDJ	8610
+Theobroma cacao	cocoa	THECC	28970
+Helianthus annuus	common sunflower	HELAN	51034
+Zea mays	corn	MAIZE	39389
+Bos taurus	cow	BOVIN	23842
+Pyrobaculum aerophilum	crenarchaea	PYRAE	2590
+Sulfolobus solfataricus	crenarchaea	SACS2	2938
+Cucumis sativus	cucumber	CUCSA	23714
+Gloeobacter violaceus	cyanobacteria	GLOVI	4326
+Synechocystis	cyanobacteria	SYNY3	3448
+Deinococcus radiodurans	deinococcus bacteria	DEIRA	3084
+Geobacter sulfurreducens	deltaproteobacteria	GEOSL	3402
+Thalassiosira pseudonana	diatom	THAPS	11717
+Dictyoglomus turgidum	dictyoglomi bacteria	DICTD	1743
+Canis lupus familiaris	dog	CANLF	20652
+Escherichia coli	E. coli	ECOLI	4392
+Zostera marina	eelgrass	ZOSMR	20331
+Juglans regia	english walnut	JUGRE	30211
+Halobacterium salinarum	euryarchaea	HALSA	2423
+Methanosarcina acetivorans	euryarchaea	METAC	4468
+Thermococcus kodakaraensis	euryarchaea	THEKO	2301
+Trichomonas vaginalis	excavate	TRIVA	49350
+Trypanosoma brucei	excavate	TRYB2	8561
+Clostridium botulinum	firmicutes bacteria	CLOBH	3589
+Listeria monocytogenes	firmicutes bacteria	LISMO	2833
+Schizosaccharomyces japonicus	fission yeast	SCHJY	4850
+Schizosaccharomyces pombe	fission yeast	SCHPO	5138
+Eucalyptus grandis	flooded gum	EUCGR	36360
+Xenopus tropicalis	frog	XENTR	22504
+Drosophila melanogaster	fruit fly	DROME	13821
+Fusobacterium nucleatum	fusobacteria	FUSNN	2046
+Coxiella burnetii	gammaproteobacteria	COXBU	1811
+Haemophilus influenzae	gammaproteobacteria	HAEIN	1705
+Pseudomonas aeruginosa	gammaproteobacteria	PSEAE	5564
+Lactuca sativa	garden lettuce	LACSA	37818
+Giardia intestinalis	giardia	GIAIC	4900
+Gorilla gorilla gorilla	gorilla	GORGO	21784
+Vitis vinifera	grape	VITVI	29872
+Chlamydomonas reinhardtii	green algae	CHLRE	17607
+Klebsormidium nitens	green algae	KLENI	16168
+Helicobacter pylori	H.pylori	HELPY	1552
+Equus caballus	horse	HORSE	20864
+Homo sapiens	human	HUMAN	20589
+Oryzias latipes	Japanese rice fish	ORYLA	23615
+Branchiostoma floridae	lancelet	BRAFL	28201
+helobdella robusta	leech	HELRO	23049
+Leishmania major	leishmania	LEIMA	8038
+Marchantia polymorpha	liverwort	MARPO	19114
+Anolis carolinensis	lizard	ANOCA	18524
+Macaca mulatta	macacque monkey	MACMU	21891
+Methanocaldococcus jannaschii	methanococci archaea	METJA	1787
+Setaria italica	millet	SETIT	35352
+mycoplasma genitalium	mollicutes bacteria	MYCGE	483
+Anopheles gambiae	mosquito	ANOGA	15548
+Physcomitrella patens	moss	PHYPA	31356
+Mus musculus	mouse	MOUSE	21997
+Caenorhabditis briggsae	nematode worm	CAEBR	21704
+Caenorhabditis elegans	nematode worm	CAEEL	19811
+Pristionchus pacificus	nematode worm	PRIPA	25149
+Thermodesulfovibrio yellowstonii	nitrospirae bacteria	THEYD	1982
+Phytophthora ramorum	oomycete	PHYRM	15045
+Monodelphis domestica	opossum	MONDO	21221
+Citrus sinensis	orange	CITSI	27844
+Prunus persica	peach	PRUPE	26645
+Sus scrofa	pig	PIG	22162
+Trichoplax adhaerens	placozoan	TRIAD	11518
+Yersinia pestis	plague bacteria	YERPE	3907
+Rhodopirellula baltica	planctomycetes bacteria	RHOBA	7271
+Ornithorhynchus anatinus	platypus	ORNAN	17389
+Solanum tuberosum	potato	SOLTU	38823
+Brachypodium distachyon	purple false brome	BRADI	34230
+Rattus norvegicus	rat	RAT	21585
+Tribolium castaneum	red flour beetle	TRICA	16568
+Oryza sativa	rice	ORYSJ	43658
+Nelumbo nucifera	sacred lotus	NELNU	23876
+Salmonella typhimurium	salmonella	SALTY	4533
+Ciona intestinalis	sea squirt	CIOIN	16678
+Strongylocentrotus purpuratus	sea urchin	STRPU	26458
+Shewanella oneidensis	shewanella	SHEON	4068
+Dictyostelium discoideum	slime mold	DICDI	12728
+Dictyostelium purpureum	slime mold	DICPU	12347
+Sorghum bicolor	sorghum	SORBI	33714
+Glycine max	soybean	SOYBN	55853
+Selaginella moellendorffii	spikemoss	SELML	33117
+Spinacia oleracea	spinach	SPIOL	21489
+Leptospira interrogans	spirochaetes bacteria	LEPIN	3676
+Monosiga brevicollis	sponge	MONBE	9187
+lepisosteus oculatus	spotted gar	LEPOC	18320
+Staphylococcus aureus	staph	STAA8	2889
+Streptococcus pneumoniae	strep	STRR6	2030
+Arabidopsis thaliana	thale cress	ARATH	27430
+Nitrosopumilus maritimus	thaumarchaea	NITMS	1795
+Thermotoga maritima	thermotogae bacteria	THEMA	1852
+Ixodes scapularis	tick	IXOSC	20487
+Nicotiana tabacum	tobacco	TOBAC	61314
+Solanum lycopersicum	tomato	SOLLC	34652
+Gossypium hirsutum	upland cotton	GOSHI	60410
+Daphnia pulex	water_flea	DAPPU	30047
+Triticum aestivum	wheat	WHEAT	103263
+Xanthomonas campestris	xanthomonas	XANCP	4104
+Erythranthe guttata	yellow monkey flower	ERYGU	27391
+Danio rerio	zebrafish	DANRE	25704
